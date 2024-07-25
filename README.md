@@ -1,7 +1,9 @@
-### Hi there 👋
+I'm an experienced software engineer specializing in .NET backend development, with a passion for cloud computing, distributed systems, and advanced debugging.
 
 <!--
 **MaximTkachenko/MaximTkachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Hi there 👋
 
 Here are some ideas to get you started:
 
