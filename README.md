@@ -1,4 +1,10 @@
-I'm an experienced software engineer specializing in .NET backend development, with a passion for cloud computing, distributed systems, and advanced debugging.
+I'm an experienced software engineer specializing in backend development, with a passion for cloud computing, distributed systems, and advanced debugging.
+
+- .NET, Go
+- backend and API development
+- actor based systems
+- troubleshooting and fixing production issues
+- refactoring of overcomplicated legacy applications
 
 <!--
 **MaximTkachenko/MaximTkachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
